@@ -1,7 +1,8 @@
-#Códigos parcial 2 y 3
+💻 Códigos del Parcial 2 y 3
+👻 ¡Hola! Soy Emilio. Aquí encontrarás los códigos que hemos trabajado desde el parcial 2 hasta el 3 del segundo semestre. La idea es que estos códigos te sirvan para entender el concepto detrás de ellos y no solo para copiar y pegar. En algunas partes he incluido explicaciones, pero si algo no está claro, ¡no dudes en preguntarme!
 
-👻 BUEEENAS, aquí Emilio. acá están los códigos que hemos hecho desde el parcial 2 hasta el 3 del segundo semestre. La idea es que les sirvan para entender, no solo para copiar. Algunas partes tienen explicaciones, y si algo no queda claro, pueden preguntarme.
+Mi objetivo es que aprendas, por lo que te animo a crear una cuenta en GitHub. Si encuentras algo en mi código que no está bien o podría mejorar, me encantaría que me lo dijeras para poder corregirlo y aprender juntos.
 
-Los insisto a crearse una cuenta aquí mismo en GitHub por si Si ven que algo está mal en mi código, díganme para corregirlo. Y si lo copian tal cual no es mi pedo. El chiste es ayudar a entender y consultar los trabajos. Por lo mismo hay un mini curso donde dejaré recursos y ejemplos para que aprendan a programar. 
+Además, voy a estar compartiendo recursos, ejemplos y más contenido en un mini curso para ayudarte a mejorar tus habilidades de programación. Este es un espacio de colaboración, así que si tienes dudas, ¡estaré encantado de ayudarte!
 
-Cualquier duda o consulta pueden mandarme mensaje - 449 357 0762 - yo les trataré de echar una mano 
+📱 Si tienes alguna pregunta o necesitas más ayuda, no dudes en mandarme un mensaje al 449 357 0762. ¡Estoy aquí para echarte una mano!
