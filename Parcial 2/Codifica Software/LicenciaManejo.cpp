@@ -11,4 +11,6 @@ int main(){
     else {
         cout << "No puedes manejar" << endl;
     }
+
+    return 0;
 }
