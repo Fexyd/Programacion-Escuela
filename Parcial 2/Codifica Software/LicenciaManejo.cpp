@@ -5,7 +5,7 @@ int main(){
     bool licencia = true;
     int edad = 18;
 
-    if(licencia && edad >= 18){
+    if(licencia && edad >= 21){
         cout << "Puedes manejar" << endl;
     }
     else {
